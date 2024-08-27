@@ -24,7 +24,7 @@ pip install opencv-python mediapipe pyautogui
     
 3. **Execute o script**:
     ```bash
-    python hand_tracking_mouse.py
+    python app.py
     ```
 
 4. **Interaja com o script**:
@@ -121,4 +121,4 @@ Contribuições são bem-vindas! Se você encontrar bugs ou tiver sugestões par
 
 ---
 
-Aproveite para testar e se divertir com o controlador de mouse por gestos!🖱️📸
+Aproveite para testar e se divertir com o controlador de mouse por gestos! | 🖱️📸
